@@ -1,1 +1,32 @@
-Hi, I'm Günay 👋 🎓 Student at Baku Engineering University 💻 AI Developer in training | Python enthusiast 📚 Currently learning Python & AI projects 🎯 Focused on building real-world AI tools and applications Interests: 🤖 Artificial Intelligence & Machine Learning 💡 Generative AI / NLP / Computer Vision 🛠 Software Development & Automation Tech Stack: 🐍 Currently: Python, Pandas, NumPy 💻 Learning: ML frameworks (Scikit-Learn, PyTorch, TensorFlow) 🚀 Tools: Git, Linux, APIs, Docker
+Hi, I'm Günay 👋
+
+🎓 Computer Science Student at Baku Engineering University
+📍 Baku, Azerbaijan
+🎯 Goal: Agentic AI Engineer — building intelligent systems that think, act, and adapt
+
+───
+
+🚀 What I'm Working On
+
+I'm currently following a structured 15-month roadmap to become a job-ready Agentic AI Engineer. The journey includes:
+
+• Python, asyncio, Pydantic — foundation
+• LLM APIs (OpenAI, Anthropic, LiteLLM)
+• LangChain, LangGraph, LangSmith
+• RAG Systems (production-grade)
+• Multi-Agent Systems (CrewAI, Supervisor pattern)
+• MCP (Model Context Protocol) — 2025 standard
+• FastAPI, Docker, Railway deployment
+• Evaluation & Testing (RAGAs, pytest)
+
+Every day I learn, build, and commit.
+
+───
+
+📫 **Connect With Me**
+
+[![LinkedIn](https://www.linkedin.com/in/gunay-hacizade-864348381?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+───
+
+⭐ Follow my journey — I document everything I learn, build, and break.
